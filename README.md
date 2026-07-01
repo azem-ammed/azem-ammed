@@ -1,119 +1,170 @@
-# Hi there 👋, I'm Azem Ammed
+<div align="center">
 
-## 🚀 Senior Full Stack Software Engineer
+# 👋 Hi, I'm Azem Ammed
 
-I'm a passionate Full Stack Software Engineer with **8+ years of experience** building scalable web applications, REST APIs, microservices, and cloud-based solutions. I enjoy solving complex problems and developing high-performance applications using modern technologies.
+### 🚀 Senior Full Stack Software Engineer
 
----
+💡 Building scalable applications with Python, JavaScript, and Ruby ecosystems.
 
-## 💻 Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer;Python+%7C+Django+%7C+FastAPI;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+NestJS+%7C+Ruby+on+Rails;Cloud+%7C+Microservices+%7C+AWS" />
 
-### Backend
-- 🐍 Python
-  - Django
-  - Django REST Framework
-  - FastAPI
-- 🟢 Node.js
-  - NestJS
-  - Express.js
-- 💎 Ruby
-  - Ruby on Rails
-
-### Frontend
-- ⚛️ React.js
-- ▲ Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Redux
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-
-### Cloud & DevOps
-- AWS
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD
-- Nginx
-
-### API Development
-- REST APIs
-- GraphQL
-- WebSockets
-- gRPC
-- OAuth
-- JWT Authentication
-
-### Testing
-- Pytest
-- Jest
-- Cypress
-- Playwright
-
-### Tools
-- Git
-- GitHub
-- Jira
-- Postman
-- Swagger / OpenAPI
-- Linux
+</div>
 
 ---
 
-## 🌱 Currently Working On
+# 💫 About Me
 
-- High-performance backend systems
-- AI integrations
-- Microservices Architecture
-- Cloud-native applications
-- API Design
-- Performance Optimization
+👨‍💻 Senior Full Stack Engineer with **8+ years** of experience designing and developing enterprise applications.
 
----
+🔹 Passionate about clean architecture, scalable backend systems, and modern frontend experiences.
 
-## 📈 GitHub Stats
+🔹 Experienced in building REST APIs, Microservices, SaaS platforms, AI integrations, and Cloud-native applications.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+🔹 Always learning new technologies and solving challenging engineering problems.
 
 ---
 
-## 🤝 Let's Connect
+# 🛠 Tech Stack
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: https://yourportfolio.com
+## 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,ruby,html,css" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nestjs,rails" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+## 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx,linux" />
+</p>
+
+## 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## ⚡ What I Love Building
+# 🚀 What I Build
 
-✔ Enterprise Applications
+✨ Enterprise Web Applications
 
-✔ Scalable REST APIs
+⚡ REST APIs & GraphQL APIs
 
-✔ Microservices
+🏗 Microservices Architecture
 
-✔ SaaS Platforms
+☁️ Cloud Native Applications
 
-✔ AI-powered Applications
+🤖 AI Integrations
 
-✔ Cloud Solutions
+📱 Modern React & Next.js Applications
 
-✔ Developer Tools
+🔐 Authentication & Authorization Systems
 
-✔ High Performance Backend Systems
+📊 High Performance Backend Services
 
 ---
 
-> *"Code should be simple, scalable, maintainable, and built with purpose."*
+# 📈 GitHub Stats
 
-⭐ Feel free to explore my repositories and don't forget to star the projects you find interesting!
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💡 Currently Exploring
+
+- 🤖 AI & LLM Integrations
+- ☁️ AWS Cloud Architecture
+- 🏗 Event-Driven Microservices
+- ⚡ High Performance APIs
+- 🔄 CI/CD & DevOps
+- 🐳 Kubernetes
+
+---
+
+# 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building software that scales, performs, and makes a difference."*
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+
+</div>
