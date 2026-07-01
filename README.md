@@ -96,36 +96,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🌍 Connect With Me
 
 <p align="left">
@@ -139,17 +109,6 @@
 </a>
 
 </p>
-
----
-
-# 💡 Currently Exploring
-
-- 🤖 AI & LLM Integrations
-- ☁️ AWS Cloud Architecture
-- 🏗 Event-Driven Microservices
-- ⚡ High Performance APIs
-- 🔄 CI/CD & DevOps
-- 🐳 Kubernetes
 
 ---
 
